@@ -20,7 +20,7 @@
 	<img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" alt="React" style="max-width: 100%;">
 </p>
 
-🚀 <h1>Start project </h1>
+ <h1>🚀 Start project </h1>
 
 ## Run mongodb - server side
 npm install
